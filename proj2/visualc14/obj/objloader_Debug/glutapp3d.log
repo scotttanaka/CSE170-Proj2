@@ -1,0 +1,42 @@
+﻿  app_main.cpp
+  curve_eval.cpp
+c:\users\scott\documents\cse170\proj2\proj2\curve_eval.cpp(5): warning C4101: 'z3': unreferenced local variable
+c:\users\scott\documents\cse170\proj2\proj2\curve_eval.cpp(52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\scott\documents\cse170\proj2\proj2\curve_eval.cpp(53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  gs_input.cpp
+  gs_material.cpp
+  gs_model.cpp
+  gs_model_obj.cpp
+  gs_string.cpp
+  gs_strings.cpp
+  so_axis.cpp
+  app_window.cpp
+c:\users\scott\documents\cse170\proj2\proj2\app_window.cpp(152): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\scott\documents\cse170\proj2\proj2\app_window.cpp(153): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\scott\documents\cse170\proj2\proj2\app_window.cpp(155): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\scott\documents\cse170\proj2\proj2\app_window.cpp(156): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\scott\documents\cse170\proj2\proj2\app_window.cpp(158): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\scott\documents\cse170\proj2\proj2\app_window.cpp(159): warning C4305: '-=': truncation from 'double' to 'float'
+  glut_window.cpp
+  gs.cpp
+  gs_array.cpp
+  gs_color.cpp
+  gs_mat.cpp
+  gs_quat.cpp
+  gs_vec.cpp
+  gs_vec2.cpp
+  ogl_tools.cpp
+  so_curve.cpp
+c:\users\scott\documents\cse170\proj2\proj2\so_curve.cpp(61): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\scott\documents\cse170\proj2\proj2\so_curve.cpp(70): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\scott\documents\cse170\proj2\proj2\so_curve.cpp(70): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\scott\documents\cse170\proj2\proj2\so_curve.cpp(79): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\scott\documents\cse170\proj2\proj2\so_curve.cpp(87): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  Compiling...
+  so_model.cpp
+  so_myobject.cpp
+  Generating Code...
+app_main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  glutapp3d.vcxproj -> C:\Users\Scott\Documents\CSE170\proj2\proj2\visualc14\obj\objloader_Debug\objloader.exe
+  glutapp3d.vcxproj -> obj\objloader_Debug\objloader.pdb (Full PDB)
